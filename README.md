@@ -1,0 +1,2 @@
+# -Rrangga
+"C:\gaxml\ga.py\import urllib.py"
